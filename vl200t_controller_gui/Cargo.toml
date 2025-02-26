@@ -1,0 +1,13 @@
+[package]
+name = "vl200t_controller_gui"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+serialport = "4.0"
+anyhow = "1.0"
+egui = { version = "0.15", features = ["persistence"] }
+eframe = { version = "0.15", features = ["persistence"] }
+serde = "1.0"

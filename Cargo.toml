@@ -1,0 +1,6 @@
+[workspace]
+members = [
+    "a7105_decoder",
+    "vl200t_controller",
+    "vl200t_controller_gui",
+]
