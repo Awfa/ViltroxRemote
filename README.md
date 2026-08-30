@@ -1,5 +1,12 @@
 # ViltroxRemote
 
+<table>
+  <tr>
+    <td><img src="demo.gif" alt="Demo" width="420" /></td>
+    <td><img src="breadboardpic.jpg" alt="Breadboard wiring" width="420" /></td>
+  </tr>
+</table>
+
 I built this back in Dec 2021 when my remote for my Viltrox LED panels broke — and customer service
 didn't have an option for me to buy a new remote.
 
